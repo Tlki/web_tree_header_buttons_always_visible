@@ -1,4 +1,4 @@
-# Tree Header Buttons Always 
+# Tree Header Buttons Always Visible
 
 ## What does this module do?
 
